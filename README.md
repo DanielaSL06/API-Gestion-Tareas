@@ -1,5 +1,10 @@
 # API REST para Gestión de Proyectos y Tareas
 
+## Creadores
+* Hernadez Morales Anahí
+* López Corella David Antonio
+* Sandoval López Daniela
+
 ## Especificaciones Técnicas
 * **Lenguaje de programación:** Python (v3.10 / v3.11) & JavaScript (ES6+)
 * **Framework Web Backend:** Flask (v3.0)
