@@ -39,6 +39,14 @@ El desarrollo abarca tres componentes fundamentales:
 
 ---
 
+## Imágenes
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/813a4831-b6f3-4348-8461-2892ad776129" />
+<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/f420c79d-5d4b-4cae-a2a2-0a9bdd5f9b1d" />
+<img width="450" height="200" alt="image" src="https://github.com/user-attachments/assets/03378788-3e2b-44b6-a362-3c6547c7da7c" />
+
+
+
+
 ## Instrucciones de Ejecución
 
 1. Asegurarse de tener Python 3.x instalado.
