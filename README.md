@@ -39,13 +39,16 @@ El desarrollo abarca tres componentes fundamentales:
 
 ---
 
+
 ## Imágenes
-<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/813a4831-b6f3-4348-8461-2892ad776129" />
-<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/f420c79d-5d4b-4cae-a2a2-0a9bdd5f9b1d" />
-<img width="450" height="200" alt="image" src="https://github.com/user-attachments/assets/03378788-3e2b-44b6-a362-3c6547c7da7c" />
 
+**Interfaz web: gestión de proyectos (CRUD completo)**
+<img src="images/01-interfaz-proyectos.png" width="720" alt="Interfaz de proyectos" />
 
+**Interfaz web: gestión de tareas**
+<img src="images/02-interfaz-tareas.png" width="720" alt="Interfaz de tareas" />
 
+---
 
 ## Instrucciones de Ejecución
 
